@@ -171,11 +171,21 @@ const Home = () => {
     {
       href: "pages/16_preloader-timeline-demo/index.html",
       img: "cover20.png",
-      title: "Gsap staggers",
+      title: "Preloader Timeline",
       desc: [
         "Learn ",
         "staggers",
         ", a special property that spaces out the starting time of animations across multiple elements automatically.",
+      ],
+    },
+    {
+      href: "pages/17_first-scroltrigger-demo/index.html",
+      img: "cover20.png",
+      title: "First ScrollTrigger Animation",
+      desc: [
+        "Learn how ",
+        "ScrollTrigger",
+        " brings animations to life on scroll, triggering motion when elements enter the viewport with precise start positions and smooth sequencing.",
       ],
     },
   ];

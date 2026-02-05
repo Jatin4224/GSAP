@@ -94,6 +94,10 @@ function App() {
           path="/pages/16_preloader-timeline-demo"
           element={<PageWrapper page="16_preloader-timeline-demo" />}
         />
+        <Route
+          path="pages/17_first-scroltrigger-demo"
+          element={<PageWrapper page="17_first-scroltrigger-demo" />}
+        />
       </Routes>
     </BrowserRouter>
   );

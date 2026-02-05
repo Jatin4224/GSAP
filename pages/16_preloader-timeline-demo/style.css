@@ -7,7 +7,7 @@
 @font-face {
   font-family: "SuisseIntl";
   font-weight: 400;
-  src: url("/fonts/SuisseIntl-Light.ttf");
+  src: url("/preloader/fonts/SuisseIntl-Light.ttf");
 }
 
 body {
@@ -31,10 +31,6 @@ body {
 
 .preloader h1 {
   font-size: 1.3rem;
-}
-
-.preloader h1 span {
-  opacity: 0;
 }
 
 .container {
