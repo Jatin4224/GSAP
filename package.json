@@ -12,9 +12,11 @@
     "vite": "^6.3.5"
   },
   "dependencies": {
+    "@gsap/react": "^2.1.2",
     "@tailwindcss/vite": "^4.1.8",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
+    "react-router-dom": "^7.13.0",
     "tailwindcss": "^4.1.8"
   }
 }
