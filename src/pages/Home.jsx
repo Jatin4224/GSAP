@@ -188,6 +188,16 @@ const Home = () => {
         " brings animations to life on scroll, triggering motion when elements enter the viewport with precise start positions and smooth sequencing.",
       ],
     },
+    {
+      href: "pages/18_apple-scrub-marquee-demo/index.html",
+      img: "cover20.png",
+      title: "ScrollTrigger Scrub",
+      desc: [
+        "Learn how ",
+        "Scrub",
+        " brings animations to life on scroll, syncing motion to the scrollbar with precise start positions and smooth, natural sequencing.",
+      ],
+    },
   ];
 
   return (

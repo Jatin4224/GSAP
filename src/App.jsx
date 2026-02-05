@@ -98,6 +98,10 @@ function App() {
           path="pages/17_first-scroltrigger-demo"
           element={<PageWrapper page="17_first-scroltrigger-demo" />}
         />
+        <Route
+          path="pages/18_apple-scrub-marquee-demo"
+          element={<PageWrapper page="18_apple-scrub-marquee-demo" />}
+        />
       </Routes>
     </BrowserRouter>
   );
